@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MidTermProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07f4267c-a03f-4244-8354-893d8c247d17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JarFile/setting/sett.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JarFile/setting/sett.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTermProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MidTermProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/BackgroundRequestPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/BackgroundRequestPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/CenterPanel$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/CenterPanel$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/CenterPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/CenterPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/CenterPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/CenterPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/CenterPanel$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/CenterPanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/CenterPanel$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/CenterPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/CenterPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/HeaderPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/HeaderPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/RequestPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/RequestPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/RequestPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/RequestPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/RightPanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/RightPanel$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/RightPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/RightPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/UserInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/UserInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/1.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data/1.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data/2.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data/3.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/4.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data/4.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/5.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data/5.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/ali.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/ali.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591170076792" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591170234952" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591170311193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591170341523" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.5911706424" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591170712713" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591170891023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591171667867" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591171754279" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591185306891" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591185770574" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591186824403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591187454553" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591187527847" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591188171542" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59118823369" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591188971741" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591189051908" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59118958338" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591194094582" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591194616425" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591194653434" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591194731336" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591194737365" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591194775458" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195071356" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195100968" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195198487" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195228732" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195246887" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195600665" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195620543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195864226" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591195972511" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196019297" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196154065" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196258194" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196344942" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196359489" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196380872" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196408641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196472223" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196518103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196573951" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196616739" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591196633221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591197307406" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591197373788" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591197395218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591197500124" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59119764027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59119782573" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591197919521" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591198143505" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591198291433" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591200906799" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591201044273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591201094737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591201258591" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59120149926" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59120156693" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208478862" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208610378" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208694082" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208725013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208740862" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208873882" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591208983643" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591209107341" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591213623033" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591213895212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214006047" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214861269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214923996" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214929323" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214946246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214977615" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591214986172" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215056243" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215079173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215084105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215145701" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215196478" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215250342" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215297827" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215422562" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59121549453" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591215888655" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591216012225" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591216014442" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591250710481" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591250874724" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591251094679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591251255604" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591251280851" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591251332258" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591252583774" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591252854439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591252903759" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591252942854" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591252946348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59125294859" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591252951428" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59125296045" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253009668" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253106157" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253120663" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253161164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253170154" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253885079" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591253908232" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591257308661" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591257483262" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591257860408" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591257893454" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591257940922" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258079032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258225038" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59125824289" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258254841" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59125829308" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258303429" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258320687" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258324831" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258373198" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258439408" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258489627" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59125852853" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258561505" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258686183" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258696634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258806912" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258885126" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258907583" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258941023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591258967938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591259026051" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591259166077" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591263009266" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591263050532" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59126311174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59126505213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265226139" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265229359" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265283895" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265337063" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59126534235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265348683" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265550468" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591265600902" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591266031735" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591266056765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591266205626" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.59126633877" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591266388439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591266499359" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.5912670641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267217161" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267227948" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267271236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267337814" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267393159" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267539942" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267898305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267915544" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591267967346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591362757841" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591362993745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591460070797" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/output_1.591460557013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/sett.bin" beforeDir="false" afterPath="$PROJECT_DIR$/setting/sett.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/AboutDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/AboutDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/BackgroundRequestPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/BackgroundRequestPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/CenterPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/CenterPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/HeaderPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/HeaderPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/HtmlEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/HtmlViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/HtmlViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/JsonViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/JsonViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/RightPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/RightPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/UserInterface.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/JsonViewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/UserInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/BackgroundRequestPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Request.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="39" column="27" lean-forward="true" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/RequestManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/model/PUT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="109" column="65" lean-forward="true" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UserInterface.java" />
+        <option value="$PROJECT_DIR$/src/Model/BackgroundRequestPanel.java" />
+        <option value="$PROJECT_DIR$/src/Model2/JsonBodyHandler.java" />
+        <option value="$PROJECT_DIR$/src/Model2/RequestManager.java" />
+        <option value="$PROJECT_DIR$/src/view/RequestPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/XmlFormatter.java" />
+        <option value="$PROJECT_DIR$/src/view/RightPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/JsonViewer.java" />
+        <option value="$PROJECT_DIR$/src/view/HeaderPanel.java" />
+        <option value="$PROJECT_DIR$/src/model/Request.java" />
+        <option value="$PROJECT_DIR$/src/view/UserInterface.java" />
+        <option value="$PROJECT_DIR$/src/view/AboutDialog.java" />
+        <option value="$PROJECT_DIR$/src/view/BackgroundRequestPanel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="midtermproject" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JarFile" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RequestManager">
+    <configuration name="RequestManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.RequestManager" />
+      <module name="MidTermProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInterface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.UserInterface" />
+      <module name="MidTermProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserInterface" />
+      <module name="MidTermProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RequestManager" />
+        <item itemvalue="Application.UserInterface (1)" />
+        <item itemvalue="Application.UserInterface" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07f4267c-a03f-4244-8354-893d8c247d17" name="Default Changelist" comment="" />
+      <created>1589378259437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589378259437</updated>
+      <workItem from="1589378262411" duration="582000" />
+      <workItem from="1589397727157" duration="9000" />
+      <workItem from="1589397955746" duration="622000" />
+      <workItem from="1589541831788" duration="292000" />
+      <workItem from="1591296829806" duration="323000" />
+      <workItem from="1591375085112" duration="29000" />
+      <workItem from="1591654451871" duration="470000" />
+      <workItem from="1591684754290" duration="863000" />
+      <workItem from="1591686701557" duration="54000" />
+      <workItem from="1591702839064" duration="1395000" />
+      <workItem from="1591708922166" duration="13000" />
+      <workItem from="1591775902024" duration="1074000" />
+      <workItem from="1591792659718" duration="94000" />
+      <workItem from="1592075857118" duration="145000" />
+      <workItem from="1592076005831" duration="895000" />
+      <workItem from="1592078049062" duration="128000" />
+      <workItem from="1592204087878" duration="756000" />
+      <workItem from="1592235923099" duration="1535000" />
+      <workItem from="1592288329316" duration="238000" />
+      <workItem from="1594195456251" duration="855000" />
+      <workItem from="1594913732595" duration="42000" />
+      <workItem from="1595687798173" duration="4942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15356000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15618336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.54065937" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.96703297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.54065937" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.96703297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/UserInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/Model/BackgroundRequestPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Model2/JsonBodyHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/Model2/RequestManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/view/ResponseHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/CenterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/RequestPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3872">
+          <caret line="210" column="35" selection-start-line="210" selection-start-column="35" selection-end-line="210" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/RightPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4796">
+          <caret line="245" column="33" lean-forward="true" selection-start-line="245" selection-start-column="33" selection-end-line="245" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/HeaderPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidTermProject.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/DELETE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/XmlFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/AboutDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/JsonViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/UserInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/BackgroundRequestPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="39" column="27" lean-forward="true" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/RequestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/PUT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="109" column="65" lean-forward="true" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MidTermProject:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
