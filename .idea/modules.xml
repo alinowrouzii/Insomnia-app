@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MidTermProject.iml" filepath="$PROJECT_DIR$/MidTermProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insomnia-app.iml" filepath="$PROJECT_DIR$/insomnia-app.iml" />
     </modules>
   </component>
 </project>

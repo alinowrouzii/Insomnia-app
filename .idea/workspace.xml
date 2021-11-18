@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="MidTermProject:jar" />
+      <artifact name="insomnia-app:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f4267c-a03f-4244-8354-893d8c247d17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JarFile/setting/sett.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JarFile/setting/sett.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTermProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MidTermProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insomnia-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/insomnia-app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/model/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/Request.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/model/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/Util.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/view/BackgroundRequestPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/BackgroundRequestPanel.class" afterDir="false" />
@@ -353,23 +353,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="insomnia-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insomnia-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="insomnia-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insomnia-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="insomnia-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insomnia-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="insomnia-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insomnia-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -384,7 +384,7 @@
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="midtermproject" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="insomnia-app" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -410,7 +410,7 @@
   <component name="RunManager" selected="Application.RequestManager">
     <configuration name="RequestManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="model.RequestManager" />
-      <module name="MidTermProject" />
+      <module name="insomnia-app" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="model.*" />
@@ -423,7 +423,7 @@
     </configuration>
     <configuration name="UserInterface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="view.UserInterface" />
-      <module name="MidTermProject" />
+      <module name="insomnia-app" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="view.*" />
@@ -436,7 +436,7 @@
     </configuration>
     <configuration name="UserInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UserInterface" />
-      <module name="MidTermProject" />
+      <module name="insomnia-app" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -599,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MidTermProject.iml">
+    <entry file="file://$PROJECT_DIR$/insomnia-app.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/DELETE.java">
@@ -680,7 +680,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>MidTermProject:jar</last-edited>
+          <last-edited>insomnia-app:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
